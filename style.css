@@ -4,7 +4,14 @@ p{
 }
 
 h1{
-    color:blue;
-    text-align: right;  /*alinhamento
-    font-size: 30px;    /*tamanho da fonte*/
+    color:blue; /*cor da fonte*/
+    text-align: center; /alinhamento do texto*/
+    font-size: 30px; /*tamanho da fonte*/
+}
+
+#paragrafo1{
+    color:aqua;
+}
+#paragrafo2{
+    background-color: aqua;
 }
